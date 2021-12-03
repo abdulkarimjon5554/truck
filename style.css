@@ -1,0 +1,45 @@
+header{
+    background-image: url(./75ae05112787439\ 1.png);
+    background-size: cover;
+    align-items: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+header .container .row .navbar ul li a{
+    color: white;
+    font-size: 20px;
+}
+header .container .row .navbar{
+    margin-top: 30px;
+    font-size: 20px; 
+}
+header .container .row .row{
+    margin-top: 30px;
+}
+header .container .row .navbar ul .nav-item a{
+    color: white;
+}
+header .container .row h1{
+    color: white;
+    font-size: 38px;
+
+}
+header .container .row .btn{
+    margin-top: 50px;
+    width: 60%;
+    padding: 15px 76px;
+margin-bottom: 400px;
+}
+footer{
+    background: #000000D9;
+
+}
+
+footer .h1{
+    color: white;
+    font-size: 28px;
+}
+
+footer p{
+    color: white;
+}
